@@ -1,0 +1,1 @@
+"""Here you can write all the general code which is required for the projects"""
